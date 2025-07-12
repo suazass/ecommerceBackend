@@ -1,0 +1,17 @@
+[
+  {
+    "id": "001",
+    "name": "Tecnologia",
+    "description": "son los productos de tecnología"
+  },
+  {
+    "id": "002",
+    "name": "celulares",
+    "description": "dispositivos celulares del momento"
+  },
+  {
+    "id": "003",
+    "name": "Aguacate",
+    "description": "Verdura para la ensalada"
+  }
+]

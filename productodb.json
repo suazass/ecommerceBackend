@@ -1,0 +1,140 @@
+[
+  {
+    "sku": "prueba1",
+    "titulo": "padereta",
+    "descripcion": "esto es un istrumento musical",
+    "precio": "2566987",
+    "imagenes": [
+      "https://http2.mlstatic.com/D_NQ_NP_898399-MLA75569427715_042024-O.webp"
+    ],
+    "metodos_pago": [
+      "Tarjeta de Crédito en hasta 12 cuotas",
+      "Tarjeta de Débito",
+      "Mercado Pago",
+      "Efectivo en puntos de pago"
+    ],
+    "info_vendedor": {
+      "nombre": "yahama",
+      "direccion": "cra 48 # 25 sur 45",
+      "numeroContact": "3185624748",
+      "reputacion": "Buena"
+    },
+    "cantidadDisaponible": "22",
+    "categoria": "música"
+  },
+  {
+    "sku": "prueba2",
+    "titulo": "asdfasdfasdfasdfasd",
+    "descripcion": "esto es un istrumento musical1212",
+    "precio": "2566987",
+    "imagenes": [
+      "https://http2.mlstatic.com/D_NQ_NP_898399-MLA75569427715_042024-O.webp"
+    ],
+    "metodos_pago": [
+      "Tarjeta de Crédito en hasta 12 cuotas",
+      "Tarjeta de Débito",
+      "Mercado Pago",
+      "Efectivo en puntos de pago"
+    ],
+    "info_vendedor": {
+      "nombre": "yahama 1212 ",
+      "direccion": "cra 48 # 25 sur 45 1212",
+      "numeroContact": "3185624748 1212",
+      "reputacion": "Buena"
+    },
+    "cantidadDisaponible": "22",
+    "categoria": "música"
+  },
+  {
+    "sku": "prueba3",
+    "titulo": "asdfasdfasdfasdfasd",
+    "descripcion": "esto es un istrumento musical1212",
+    "precio": "2566987",
+    "imagenes": [
+      "https://http2.mlstatic.com/D_NQ_NP_898399-MLA75569427715_042024-O.webp"
+    ],
+    "metodos_pago": [
+      "Tarjeta de Crédito en hasta 12 cuotas",
+      "Tarjeta de Débito",
+      "Mercado Pago",
+      "Efectivo en puntos de pago"
+    ],
+    "info_vendedor": {
+      "nombre": "yahama 1212 ",
+      "direccion": "cra 48 # 25 sur 45 1212",
+      "numeroContact": "3185624748 1212",
+      "reputacion": "Buena"
+    },
+    "cantidadDisaponible": "22",
+    "categoria": ""
+  },
+  {
+    "sku": "prueba4",
+    "titulo": "asdfasdfasdfasdfasd",
+    "descripcion": "esto es un istrumento musical1212",
+    "precio": "2566987",
+    "imagenes": [
+      "https://http2.mlstatic.com/D_NQ_NP_898399-MLA75569427715_042024-O.webp"
+    ],
+    "metodos_pago": [
+      "Tarjeta de Crédito en hasta 12 cuotas",
+      "Tarjeta de Débito",
+      "Mercado Pago",
+      "Efectivo en puntos de pago"
+    ],
+    "info_vendedor": {
+      "nombre": "yahama 1212 ",
+      "direccion": "cra 48 # 25 sur 45 1212",
+      "numeroContact": "3185624748 1212",
+      "reputacion": "Buena"
+    },
+    "cantidadDisaponible": "22",
+    "categoria": ""
+  },
+  {
+    "sku": "prueba5",
+    "titulo": "asdfasdfasdfasdfasd",
+    "descripcion": "esto es un istrumento musical1212",
+    "precio": "2566987",
+    "imagenes": [
+      "https://http2.mlstatic.com/D_NQ_NP_898399-MLA75569427715_042024-O.webp"
+    ],
+    "metodos_pago": [
+      "Tarjeta de Crédito en hasta 12 cuotas",
+      "Tarjeta de Débito",
+      "Mercado Pago",
+      "Efectivo en puntos de pago"
+    ],
+    "info_vendedor": {
+      "nombre": "yahama 1212 ",
+      "direccion": "cra 48 # 25 sur 45 1212",
+      "numeroContact": "3185624748 1212",
+      "reputacion": "Buena"
+    },
+    "cantidadDisaponible": "22",
+    "categoria": ""
+  },
+  {
+    "sku": "prueba8",
+    "titulo": "asdfasdfasdfasdfasd",
+    "descripcion": "esto es un istrumento musical1212",
+    "precio": "2566987",
+    "imagenes": [
+      "https://http2.mlstatic.com/D_NQ_NP_898399-MLA75569427715_042024-O.webp"
+    ],
+    "metodos_pago": [
+      "Tarjeta de Crédito en hasta 12 cuotas",
+      "Tarjeta de Débito",
+      "Mercado Pago",
+      "Efectivo en puntos de pago"
+    ],
+    "info_vendedor": {
+      "nombre": "yahama 1212 ",
+      "direccion": "cra 48 # 25 sur 45 1212",
+      "numeroContact": "3185624748 1212",
+      "reputacion": "Buena"
+    },
+    "cantidadDisaponible": "22",
+    "categoria": ""
+  }
+]

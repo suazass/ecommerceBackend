@@ -1,0 +1,50 @@
+[
+  {
+    "sku": "skupcgamer",
+    "titulo": "Notebook Gamer Nitro 5 Intel Core i5 16GB RAM 512GB SSD",
+    "descripcion": "Experimenta un nuevo nivel de juego con la Notebook Nitro 5. Su diseño imponente y futurista con detalles en rojo te transportará a una nueva dimensión. Equipada con un procesador Intel Core i5 de última generación y una tarjeta gráfica NVIDIA GeForce RTX, está lista para cualquier desafío.",
+    "precio": "2566987",
+    "imagenes": [
+      "https://http2.mlstatic.com/D_NQ_NP_898399-MLA75569427715_042024-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_969415-MLA75569427718_042024-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_621376-MLA75569427716_042024-O.webp"
+    ],
+    "metodos_pago": [
+      "Tarjeta de Crédito en hasta 12 cuotas",
+      "Tarjeta de Débito",
+      "Mercado Pago",
+      "Efectivo en puntos de pago"
+    ],
+    "info_vendedor": {
+      "nombre": "Tienda Oficial Acer",
+      "direccion": "cra 48 # 25 sur 45",
+      "numeroContact": "3185624748",
+      "reputacion": "Buena"
+    },
+    "cantidadDisaponible": "22",
+    "categoria": "tecnologia"
+  },
+  {
+    "sku": "prueba1",
+    "titulo": "10101010010101",
+    "descripcion": "1010202010102020",
+    "precio": "3333333333",
+    "imagenes": [
+      "https://http2.mlstatic.com/D_NQ_NP_898399-MLA75569427715_042024-O.webp"
+    ],
+    "metodos_pago": [
+      "Tarjeta de Crédito en hasta 12 cuotas1",
+      "Tarjeta de Débito1",
+      "Mercado Pago1",
+      "Efectivo en puntos de pago1"
+    ],
+    "info_vendedor": {
+      "nombre": "yahama1",
+      "direccion": "cra 48 # 25 sur 451",
+      "numeroContact": "31856247481",
+      "reputacion": "Buena1"
+    },
+    "cantidadDisaponible": "221",
+    "categoria": "música1"
+  }
+]
