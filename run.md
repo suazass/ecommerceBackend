@@ -37,7 +37,7 @@ Desde su línea de comando:
 
 ```bash
 # Entrar al repositorio local
-$ cd MSTemplateNestJs
+$ cd RSEcommerceJS
 
 # Comando generación pruebas unitarias
 $ npm run test:cov 
